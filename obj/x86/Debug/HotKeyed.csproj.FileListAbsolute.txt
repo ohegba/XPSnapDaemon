@@ -1,0 +1,21 @@
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\HotKeyed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\HotKeyed\obj\x86\Debug\HotKeyed.Form1.resources
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\HotKeyed\obj\x86\Debug\HotKeyed.Properties.Resources.resources
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\HotKeyed\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\HotKeyed\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\HotKeyed\bin\Debug\HotKeyed.exe
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\HotKeyed\bin\Debug\HotKeyed.pdb
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\HotKeyed\obj\x86\Debug\HotKeyed.exe
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\HotKeyed\obj\x86\Debug\HotKeyed.pdb
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\obj\x86\Debug\HotKeyed.Form1.resources
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\obj\x86\Debug\HotKeyed.Properties.Resources.resources
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\bin\Debug\XPSnap Daemon.exe.config
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\bin\Debug\XPSnap Daemon.exe
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\bin\Debug\XPSnap Daemon.pdb
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\obj\x86\Debug\XPSnap Daemon.exe
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\HotKeyed\HotKeyed\obj\x86\Debug\XPSnap Daemon.pdb
